@@ -7,4 +7,5 @@
 - 💬 Ask me about ...  animes
 - 📫 How to reach me: ... https://www.linkedin.com/in/abhay-bhatt-a1886b190/
 - ⚡ Fun fact: ... i believe AI will take over humans
+- In 2021, I made 203 contributions and modified 3,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/abhaybhatt
 -->
